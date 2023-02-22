@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xJB6brMQGL0Wcby0ZM5TvOQgIoJFcrhkQcJ2WGKjljC+dJuxh0oIJ2mgjUhX8gQ1Z2EHeVPGCLN7AgcC2odJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonardo.pipoli\\source\\ProjetoCliente\\ProjetoCliente\\Aplicacao\\Aplicacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.pipoli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
