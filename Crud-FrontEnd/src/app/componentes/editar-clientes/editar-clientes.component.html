@@ -1,0 +1,18 @@
+<br />
+<po-toolbar p-title="Editar de Clientes"></po-toolbar>
+<po-divider></po-divider>
+<br/>
+<po-page-default>
+    <div class="po-row">
+    <po-input class="po-md-12" [(ngModel)] = "cliente.nome" p-clean p-icon="po-icon-user" p-label="Nome"> </po-input>
+    <po-input class="po-md-12" [(ngModel)] = "cliente.cpf" p-clean p-icon="po-icon-document" p-label="CPF"> </po-input>
+    <po-input class="po-md-12" [(ngModel)] = "cliente.endereco" p-clean p-icon="po-icon-pin" p-label="Endereço"></po-input>
+</div>
+<br/>
+<div class="po-row">
+<br/>
+    <po-button class="po-md-4" p-icon="fa fa-check-circle" (p-click)="salvar()" p-label="Salvar"></po-button>
+    <!-- <po-button class="po-md-4" p-icon="fa fa-eye-slash" p-label="Pesquisar"></po-button> -->
+    <!-- <po-button class="po-md-4" p-icon="fa fa-ban" p-label="Excluir"></po-button> -->
+</div>
+</po-page-default>
